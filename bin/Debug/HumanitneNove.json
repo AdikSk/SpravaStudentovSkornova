@@ -1,0 +1,23 @@
+[
+  {
+    "firstName": "Fero",
+    "secondName": "Novy",
+    "date": "1996-10-17T11:20:47+0000",
+    "philosophy": "87",
+    "latin": "85"
+  },
+  {
+    "firstName": "Pavol",
+    "secondName": "Hudak",
+    "date": "1995-06-07T11:20:47+0000",
+    "philosophy": "69",
+    "latin": "64"
+  },
+  {
+    "firstName": "Zuzana",
+    "secondName": "Pekna",
+    "date": "1996-09-04T11:20:47+0000",
+    "philosophy": "90",
+    "latin": "87"
+  }
+]

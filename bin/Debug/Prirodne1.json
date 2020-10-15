@@ -1,0 +1,23 @@
+[
+{
+  "firstName": "Jan",
+  "secondName": "Novy",
+  "date": "1996-10-17T11:20:47+0000",
+  "math": "67",
+  "physics": "82"
+},
+{
+  "firstName": "Peter",
+  "secondName": "Hudak",
+  "date": "1995-06-07T11:20:47+0000",
+  "math": "61",
+  "physics": "54"
+},
+{
+  "firstName": "Katarina",
+  "secondName": "Pekna",
+  "date": "1996-09-04T11:20:47+0000",
+  "math": "90",
+  "physics": "87"
+}
+]
